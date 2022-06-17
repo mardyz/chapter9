@@ -1,4 +1,4 @@
-* {
+*{
   margin:0;
   padding:0;
   box-sizing: border-box;
@@ -66,18 +66,18 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  
+
   main {
     width: 100%;
     display: block;
   }
- 
+
   .box {
    width: 90%;
    margin: 0 auto;
-   
+
   }
-  
+
   .step1,.step2 {
     margin-bottom: 20px;
   }
