@@ -18,6 +18,7 @@ main {
 
 .box {
   width: 300px;
+  padding:10px;
   background-color: #EEEEEE;
   position: relative;
 }
